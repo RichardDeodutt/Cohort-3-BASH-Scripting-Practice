@@ -21,6 +21,7 @@ if [ -n "$n" ] && [ "$n" -eq "$n" ] ; then
 else
     #A integer was not entered by the user
     echo "You did not enter the number correctly"
+    exit 1
 fi
 
 #Success
