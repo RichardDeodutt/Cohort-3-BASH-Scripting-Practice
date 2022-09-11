@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#This script is to read in a 'n'and generate a pattern given below
+#This script is to read in a 'n' and generate a pattern given below
 #Pattern
 
 #1
