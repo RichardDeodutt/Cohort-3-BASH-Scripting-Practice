@@ -3,7 +3,7 @@
 #For Sequence Identification
 #https://www.wolframalpha.com/examples/mathematics/discrete-mathematics/sequences
 
-#This script is to read in a 'n'and generate a pattern given below
+#This script is to read in a 'n' and generate a pattern given below
 #Pattern
 
 #1
